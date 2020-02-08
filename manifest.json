@@ -1,0 +1,23 @@
+{
+	"background_color": "#ffffff",
+	"theme_color": "#ff000085",
+	"name": "St4zz Page",
+	"short_name": "St4zz Page",
+	"display": "standalone",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "favicon.ico",
+			"sizes": "32x32",
+			"type": "image/icon"
+		}
+	],
+	"share_target": {
+		"action": "share",
+		"params": {
+			"title": "title",
+			"text": "text",
+			"url": "url"
+		}
+	}
+}
